@@ -1,6 +1,6 @@
 # Описание процедуры запуска автотестов мобильного приложения «Мобильный хоспис».
 
-1. Склонировать [репозиторий](git@github.com:StavinskayaMarina/DiplomQA.git).
+1. Склонировать репозиторий `git@github.com:StavinskayaMarina/DiplomQA.git`.
 
 2. Открыть проект DiplomQA в Android Studio.
 
