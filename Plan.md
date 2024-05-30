@@ -145,7 +145,7 @@ MSI GF63 Thin 11UD; 16GB RAM; Windows 11 Pro, 22631.3447.
 
 Тестирование: 6.57" HONOR 50, Android 13, MagicOS 7.1, 8GB RAM.
 
-Эмулятор: Pixel 7 Pro API 29.
+Эмулятор: Pixel 7a API 29.
 
 
 ## Документация
