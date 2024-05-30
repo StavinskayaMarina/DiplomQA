@@ -26,3 +26,6 @@
    4. Составление отчета о тестировании - 1.
 
 ![Отчет Allure по автоматизированному тестированию.](https://github.com/StavinskayaMarina/DiplomQA/assets/128706641/5bac2ff2-8b4d-485d-b5c1-a555ac3bd7d9)
+
+![Отчет Allure по автоматизированному тестированию 2.](https://github.com/StavinskayaMarina/DiplomQA/assets/128706641/d58cf33e-8d1c-4041-a6cc-0d8c507b4547)
+
